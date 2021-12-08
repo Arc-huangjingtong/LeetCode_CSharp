@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aesdfa粉色案发
 dwhuagdug
+=======
+测试测试
+测试测试
+>>>>>>> branch1
